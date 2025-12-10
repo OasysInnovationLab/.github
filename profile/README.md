@@ -107,8 +107,8 @@ We're building innovative solutions across multiple domains:
 
 ## 📞 Contact & Support
 
-- 🔐 **Security Issues:** [security@oasysinnovationlab.org](mailto:security@oasysinnovationlab.org)
-- 🆘 **Access Problems:** [Create an issue](https://github.com/OasysInnovationLab/oil-provisioning/issues/new/choose)
+- 🔐 **Security Issues:** [oasysinnovationlab@oasysic.com](mailto:oasysinnovationlab@oasysic.com)
+- 🆘 **Access Problems:** [Create an issue](https://github.com/OasysInnovationLab/.github/issues/new?template=access-request.yml)
 - 📚 **Documentation:** [Lab Handbook](https://github.com/OasysInnovationLab/lab-handbook)
 - 💬 **General Questions:** Contact your team maintainers
 
