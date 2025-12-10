@@ -1,0 +1,26 @@
+name: Access Request
+description: "This form is used to request access to projects on the Oasys Innovation Lab github repository"
+title: "Access: @{github_username}"
+labels: ["access"]
+body:
+  - type: checkboxes
+    id: nda
+    attributes:
+      label: NDA
+      options:
+        - label: I agree to the OIL NDA and handbook rules
+          required: true
+  - type: input
+    id: username
+    attributes: { label: GitHub username, placeholder: "@example" }
+    validations: { required: true }
+  - type: dropdown
+    id: team
+    attributes:
+      label: Team requested
+      options: ["OIL-Members","OIL-Executives-RO","oil-<proj>-dev","oil-<proj>-docs","oil-<proj>-triage"]
+    validations: { required: true }
+  - type: textarea
+    id: reason
+    attributes: { label: Business justification }
+    validations: { required: true }
