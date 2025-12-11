@@ -4,46 +4,38 @@
 
 ---
 
-## 🎯 Quick Links
+## 🎯 Join Our Team
+
+**Interested in joining OIL?** Follow these two simple steps to get started:
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/OasysInnovationLab/lab-handbook">
-        <img src="https://img.icons8.com/fluency/96/000000/book.png" alt="Handbook" width="80" height="80"/>
-        <br />
-        <b>📚 Lab Handbook</b>
-      </a>
-      <br />
-      <sub>Organization policies, workflow, and governance</sub>
-      <br />
-      <br />
-      <a href="https://github.com/OasysInnovationLab/lab-handbook">
-        <img src="https://img.shields.io/badge/Read-Handbook-blue?style=for-the-badge" alt="Read Handbook"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/OasysInnovationLab/lab-handbook/blob/main/onboarding/nda.md">
+    <td align="center" width="50%">
+      <a href="https://github.com/OasysInnovationLab/.github/blob/main/nda/nda.md">
         <img src="https://img.icons8.com/fluency/96/000000/document.png" alt="NDA" width="80" height="80"/>
         <br />
-        <b>🔒 NDA Agreement</b>
+        <b>📖 Step 1: Read the NDA</b>
       </a>
       <br />
-      <sub>Required reading before requesting access</sub>
+      <sub>Review our Non-Disclosure Agreement</sub>
+      <br />
+      <sub><i>⏱️ Takes 2-3 minutes</i></sub>
       <br />
       <br />
-      <a href="https://github.com/OasysInnovationLab/lab-handbook/blob/main/onboarding/nda.md">
+      <a href="https://github.com/OasysInnovationLab/.github/blob/main/nda/nda.md">
         <img src="https://img.shields.io/badge/Read-NDA-red?style=for-the-badge" alt="Read NDA"/>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/OasysInnovationLab/.github/issues/new?template=access-request.yml">
         <img src="https://img.icons8.com/fluency/96/000000/add-user-group-man-man.png" alt="Request Access" width="80" height="80"/>
         <br />
-        <b>✨ Request Access</b>
+        <b>✅ Step 2: Request Access</b>
       </a>
       <br />
-      <sub>Join a team and start contributing</sub>
+      <sub>Submit your access request with NDA acknowledgment</sub>
+      <br />
+      <sub><i>🕐 Approved in 4-24 hours</i></sub>
       <br />
       <br />
       <a href="https://github.com/OasysInnovationLab/.github/issues/new?template=access-request.yml">
@@ -55,77 +47,45 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start Guide
 
-### New to OIL? Here's how to join:
+### How to Join OIL (< 5 minutes total)
 
-1. **📖 Read the NDA** (2-3 minutes) - [View NDA](https://github.com/OasysInnovationLab/lab-handbook/blob/main/onboarding/nda.md)
-2. **🔐 Enable Security** - Set up [2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) and [SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
-3. **✅ Request Access** - [Submit access request](https://github.com/OasysInnovationLab/oil-provisioning/issues/new?template=access-request.yml)
-4. **⏳ Wait for approval** - Typically 4-24 hours
-5. **🎉 Start contributing!**
-
-**Total onboarding time: < 5 minutes**
+1. **📖 Read the NDA** - Review our [Non-Disclosure Agreement](https://github.com/OasysInnovationLab/lab-handbook/blob/main/onboarding/nda.md) (2-3 min)
+2. **🔐 Set Up Security** - Enable [2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) and configure your [SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+3. **✅ Submit Request** - [Fill out the access request form](https://github.com/OasysInnovationLab/.github/issues/new?template=access-request.yml)
+4. **⏳ Wait for Approval** - Typically 4-24 hours
+5. **🎉 Welcome to OIL!** - Once approved, you'll get access to the member handbook and your team resources
 
 ---
 
-## 📋 Key Policies
+## 📊 About Oasys Innovation Lab
 
-| Policy | Description | Link |
-|--------|-------------|------|
-| 🔒 **Security First** | 2FA required, all repos private by default | [Security Baseline](https://github.com/OasysInnovationLab/lab-handbook/blob/main/governance/security-baseline.md) |
-| 🌳 **GitFlow Workflow** | Feature branches from `develop`, PRs require approval | [Branching & Reviews](https://github.com/OasysInnovationLab/lab-handbook/blob/main/governance/branching-and-reviews.md) |
-| ✍️ **DCO Required** | Sign all commits with `git commit -s` | [Developer Certificate](https://github.com/OasysInnovationLab/lab-handbook/blob/main/policies/dco.md) |
-| 🤝 **Code of Conduct** | Be respectful, collaborative, and professional | [Code of Conduct](https://github.com/OasysInnovationLab/lab-handbook/blob/main/policies/code-of-conduct.md) |
-| 🔐 **Internal Use Only** | All work is confidential unless approved for release | [NDA](https://github.com/OasysInnovationLab/lab-handbook/blob/main/onboarding/nda.md) |
+**OIL builds innovative solutions across multiple domains with a focus on security, quality, and collaboration.**
 
----
+### What We Value
 
-## 💼 Our Projects
+🔐 **Security First** - 2FA required, private repos by default, signed commits  
+🌳 **Quality Code** - Code reviews, GitFlow workflow, automated testing  
+🤝 **Collaboration** - Respectful environment, knowledge sharing, team success  
+📚 **Continuous Learning** - Innovation, experimentation, best practices
 
-We're building innovative solutions across multiple domains:
+### Our Focus Areas
 
-- 🌐 **Website** - Public-facing platform and services
-- 🏗️ **Infrastructure** - Core systems and automation
-- 🤖 **Olivia** - AI-powered solutions
-- 📊 **OTCMS** - Content management systems
-- 📈 **Project Tracker** - Internal project management
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
+- 🌐 **Web Platforms** - Public-facing services and applications
+- 🏗️ **Infrastructure** - Core systems, DevOps, and automation
+- 🤖 **AI Solutions** - Intelligent automation and ML workflows
+- 📊 **Data Systems** - Analytics, management, and insights
 
 ---
 
 ## 📞 Contact & Support
 
 - 🔐 **Security Issues:** [oasysinnovationlab@oasysic.com](mailto:oasysinnovationlab@oasysic.com)
-- 🆘 **Access Problems:** [Create an issue](https://github.com/OasysInnovationLab/.github/issues/new?template=access-request.yml)
-- 📚 **Documentation:** [Lab Handbook](https://github.com/OasysInnovationLab/lab-handbook)
-- 💬 **General Questions:** Contact your team maintainers
+- 🆘 **Access Questions:** [Submit an access request](https://github.com/OasysInnovationLab/.github/issues/new?template=access-request.yml)
+- 📧 **General Inquiries:** [oasysinnovationlab@oasysic.com](mailto:oasysinnovationlab@oasysic.com)
 
 ---
-
-## 📊 Organization Stats
-
-![Organization Stats](https://img.shields.io/badge/Organization-OasysInnovationLab-blue?style=flat-square)
-![Security](https://img.shields.io/badge/2FA-Required-green?style=flat-square)
-![Workflow](https://img.shields.io/badge/Workflow-GitFlow-orange?style=flat-square)
-![Commits](https://img.shields.io/badge/Commits-DCO_Signed-purple?style=flat-square)
-
----
-
-<p align="center">
-  <b>🎯 Mission:</b> Building innovative solutions with excellence, security, and collaboration at our core.
-</p>
 
 <p align="center">
   <sub>All work is Internal Use Only unless explicitly approved for external release.</sub>
